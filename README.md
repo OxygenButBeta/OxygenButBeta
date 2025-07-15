@@ -8,14 +8,6 @@ I enjoy exploring topics like low-level rendering, engine architecture, gameplay
 
 ---
 
-## 🚀 About Me
-
-- 🎮 Game development enthusiast with hands-on experience in engine design, editor tooling, and gameplay systems.  
-- 🛠️ Specialized in performance optimization, reflection-based utilities, and runtime debugging tools.  
-- 🎓 Self-taught in game design, graphics programming, and math to build solid, scalable projects.
-
----
-
 ## 🌐 Let's Connect
 
 [![🌍 Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.suleymanakbulut.me)  
